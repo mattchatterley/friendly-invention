@@ -1,3 +1,3 @@
 # friendly-invention
 
-Hello World!
+Hello Everyone!
